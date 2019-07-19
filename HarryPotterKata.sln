@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3D94BE89-21FC-4786-97D0-DEDBAD16F17A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{9E70B082-C58C-49BB-8AB4-6325004A378B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryPotterKata", "src\HarryPotterKata\HarryPotterKata.csproj", "{A0494069-45DF-4E12-ABD8-C8282ED7B928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0494069-45DF-4E12-ABD8-C8282ED7B928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0494069-45DF-4E12-ABD8-C8282ED7B928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0494069-45DF-4E12-ABD8-C8282ED7B928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0494069-45DF-4E12-ABD8-C8282ED7B928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A0494069-45DF-4E12-ABD8-C8282ED7B928} = {3D94BE89-21FC-4786-97D0-DEDBAD16F17A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5E2A93-2854-46CE-912B-2BA4C8B9B817}
+	EndGlobalSection
+EndGlobal
